@@ -1,5 +1,7 @@
 # deep-require-from
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zkochan/deep-require-from.svg)](https://greenkeeper.io/)
+
 > Require a module like \`require()\` but via a sequence of nested packages
 
 <!--@shields('npm', 'travis')-->
